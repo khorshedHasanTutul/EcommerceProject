@@ -1,0 +1,13 @@
+﻿.list-unstyle {
+    list-style: none;
+}
+
+.list-unstyle > li .container {
+    display: flex;
+    margin-top: 15px;
+    margin-left: 5px;
+    gap: 2rem;
+}
+.price {
+    color: red;
+}

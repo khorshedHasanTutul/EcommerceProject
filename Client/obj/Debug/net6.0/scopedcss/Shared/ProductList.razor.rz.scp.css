@@ -1,0 +1,13 @@
+.list-unstyle[b-6ca97eypqo] {
+    list-style: none;
+}
+
+.list-unstyle > li .container[b-6ca97eypqo] {
+    display: flex;
+    margin-top: 15px;
+    margin-left: 5px;
+    gap: 2rem;
+}
+.price[b-6ca97eypqo] {
+    color: red;
+}
